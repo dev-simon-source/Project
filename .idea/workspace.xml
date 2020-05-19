@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63e7caa7-5746-4dd7-8e62-504e8aad022c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/loesung2/DivideTopLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/loesung2/DivideTopLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loesung2/NumberCruncherAnonym.java" beforeDir="false" afterPath="$PROJECT_DIR$/loesung2/NumberCruncherAnonym.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loesung2/NumberCruncherDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/loesung2/NumberCruncherDialog.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c8wJDOKubLmhprvgOjrkCUa7oB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="NumberCruncherDialog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberCruncherDialog" />
+      <module name="Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NumberCruncherDialog" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63e7caa7-5746-4dd7-8e62-504e8aad022c" name="Default Changelist" comment="" />
+      <created>1589923453300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589923453300</updated>
+      <workItem from="1589923457537" duration="59000" />
+      <workItem from="1589923574828" duration="2522000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="263" key="GridCell.Tab.0.bottom" timestamp="1589926078005">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1638" height="263" key="GridCell.Tab.0.bottom/0.23.1680.974@0.23.1680.974" timestamp="1589926078005" />
+    <state width="1638" height="263" key="GridCell.Tab.0.center" timestamp="1589926078004">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1638" height="263" key="GridCell.Tab.0.center/0.23.1680.974@0.23.1680.974" timestamp="1589926078004" />
+    <state width="1638" height="263" key="GridCell.Tab.0.left" timestamp="1589926078004">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1638" height="263" key="GridCell.Tab.0.left/0.23.1680.974@0.23.1680.974" timestamp="1589926078004" />
+    <state width="1638" height="263" key="GridCell.Tab.0.right" timestamp="1589926078004">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1638" height="263" key="GridCell.Tab.0.right/0.23.1680.974@0.23.1680.974" timestamp="1589926078004" />
+    <state width="1638" height="324" key="GridCell.Tab.1.bottom" timestamp="1589926042645">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.1.bottom/0.23.1680.974@0.23.1680.974" timestamp="1589926042645" />
+    <state width="1638" height="324" key="GridCell.Tab.1.center" timestamp="1589926042645">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.1.center/0.23.1680.974@0.23.1680.974" timestamp="1589926042645" />
+    <state width="1638" height="324" key="GridCell.Tab.1.left" timestamp="1589926042644">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.1.left/0.23.1680.974@0.23.1680.974" timestamp="1589926042644" />
+    <state width="1638" height="324" key="GridCell.Tab.1.right" timestamp="1589926042645">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.1.right/0.23.1680.974@0.23.1680.974" timestamp="1589926042645" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/loesung2/NumberCruncherAnonym.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/loesung2/NumberCruncherAnonym.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/loesung2/NumberCruncherAnonym.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/loesung2/NumberCruncherAnonym.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/loesung2/NumberCruncherAnonym.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

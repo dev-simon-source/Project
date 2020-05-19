@@ -7,11 +7,11 @@ public class NumberCruncherAnonym {
     /**
      * Attribute
      */
-    float[] values;
-    int lastPosMin = -1;
-    int lastPosMax = -1;
-    int[] posMax;
-    int[] posMin;
+    private float[] values;
+    private int lastPosMin = -1;
+    private int lastPosMax = -1;
+    private int[] posMax;
+    private int[] posMin;
 
     /**
      * Konstruktor
@@ -55,6 +55,10 @@ public class NumberCruncherAnonym {
             public void divide() {
                 posMax = new int[values.length / 2];
                 posMin = new int[values.length / 2];
+                initialisierung(posMax);
+                initialisierung(posMin);
+                lastPosMax = -1;
+                lastPosMin = -1;
                 int laenge = values.length / 2;
                 for (int i = 0; i < laenge; i++) {
                     posMax[i] = bestimmeNteMaximum(values, lastPosMax);
@@ -190,7 +194,7 @@ public class NumberCruncherAnonym {
         lastPosMax = posMax;
         return lastPosMax;
     }
-    
+
     /**
      * Methode zum Ausführen der ausgewählten Operationen
      * @param operations Operation als String Array
@@ -198,6 +202,12 @@ public class NumberCruncherAnonym {
     public void crunch(String[] operations){
         for (String funktion:operations ) {
             ausführenOperation(funktion);
+        }
+    }
+
+    private void initialisierung(int[] arr){
+        for (int i=0; i<arr.length;i++){
+            arr[i]=-1;
         }
     }
 }

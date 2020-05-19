@@ -8,10 +8,10 @@ public class DivideTopLevel  implements CrunchOperation {
      * Attribute
      */
     private float[] values;
-    int lastPosMin = -1;
-    int lastPosMax = -1;
-    int[] posMax;
-    int[] posMin;
+    private int lastPosMin = -1;
+    private int lastPosMax = -1;
+    private int[] posMax;
+    private int[] posMin;
 
     /**
      * Methode divide
@@ -20,6 +20,8 @@ public class DivideTopLevel  implements CrunchOperation {
 
         posMax = new int[values.length / 2];
         posMin = new int[values.length / 2];
+        initialisierung(posMax);
+        initialisierung(posMin);
         int laenge = values.length / 2;
         for (int i = 0; i < laenge; i++) {
             posMax[i] = bestimmeNteMaximum(values, lastPosMax);
@@ -101,4 +103,9 @@ public class DivideTopLevel  implements CrunchOperation {
         return lastPosMax;
     }
 
+    private void initialisierung(int[] arr){
+        for (int i=0; i<arr.length;i++){
+            arr[i]=-1;
+        }
+    }
 }

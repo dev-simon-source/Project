@@ -185,8 +185,9 @@ public class NumberCruncherDialog {
         float[] ausgValues = values;
 
         for(int i = 0; i < ausgValues.length; i++) {
-            System.out.println(ausgValues[i]);
+            System.out.print( " | " + ausgValues[i]);
         }
+        System.out.println(" |\n-----------------------------------------------\n");
     }
 
     private float[] gebeZahlenEin() {
